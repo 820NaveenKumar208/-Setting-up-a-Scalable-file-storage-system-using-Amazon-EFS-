@@ -1,4 +1,7 @@
 # SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
+### REG NUMBER:212223220067
+### NAME:NAVEEN KUMAR T
+ 
 ## AIM:
 To  setting up a scalable file storage system using Amazon Elastic File System (EFS) for two EC2 instances in different availability zones. 
 ## PROBLEM STATEMENT:
