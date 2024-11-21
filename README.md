@@ -1,9 +1,9 @@
-![387066673-96cf5e99-a3a4-4066-aaa3-a1358b56f723](https://github.com/user-attachments/assets/ad46f1b6-551b-4f8f-b06b-d2e42a42c302) # SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
-## AIM
-       To  setting up a scalable file storage system using Amazon Elastic File System (EFS) for two EC2 instances in different availability zones. 
-## PROBLEM STATEMENT
+# SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
+## AIM:
+To  setting up a scalable file storage system using Amazon Elastic File System (EFS) for two EC2 instances in different availability zones. 
+## PROBLEM STATEMENT:
 This experiment demonstrates how to configure Amazon EFS to provide a shared storage solution for two Linux EC2 instances across different availability zones, enabling easy data sharing. The aim is to ensure both instances can mount and access the EFS file system and validate data consistency across instances.
-## ALGORITHM
+## ALGORITHM:
  ### Steps 1: Create two EC2 instances in different availability zones.
  Go to the EC2 service in the AWS Management Console.
 Launch two Linux-based EC2 instances (e.g., Amazon Linux 2) and place them in different availability zones within the same VPC.
